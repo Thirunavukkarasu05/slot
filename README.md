@@ -29,7 +29,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - SAI SATHYA V (22008626)</b></caption>
+<caption><b>SLOT TIME TABLE - THIRUNAVUKKARASU (22009140)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -40,17 +40,17 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">8-10</th>
-<td colspan="3">FREE SLOT</td>
-<td>PHY</td>
-<td>CHE</td>
+<td>SS</td>
+<td colspan="2">DPSD</td>
+<td>PYTHON</td>
+<td>DPSD</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">10-12</th>
-<td>GER</td>
-<td> FREE SLOT </td>
+<td colspan="2"> FREE SLOT </td>
+<td>CHE</td>
+<td>FREE SLOT</td>
 <td>FWAD</td>
-<td>FWAD</td>
-<td>PHY</td>
 </tr>
 <tr>
 <th bgcolor="yellow">12-1</th>
@@ -58,17 +58,19 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">1-3</th>
-<td colspan="2"> FREE SLOT </td>
+<td>FWAD</td>
+<td>FREE SLOT</td>
 <td>MAT</td>
 <td>MAT</td>
-<td>SS</td>
+<td>PYTHON</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">3-5</th>
-<td colspan="2"> FREE SLOT </td>
-<td>GER</td>
-<td>CHE</td>
+<td>PHY</td>
 <td>FWAD</td>
+<td> FREE SLOT </td>
+<td>PHY</td>
+<td>CHE</td>
 </tr>
 </table>
 <br>
@@ -85,13 +87,13 @@ Execute the program
 </tr>
 <tr>
 <td align="center">2.</td>
-<td align="center">19EN612</td>
-<td>German Basic (GER)</td>
+<td align="center">19CS301P1</td>
+<td>Problem Solving and Python Programming P1(PYTHON)</td>
 </tr>
 <tr>
 <td align="center">3.</td>
-<td align="center">19PH206</td>
-<td>Physics for Information Technology (PHY)</td>
+<td align="center">19EY701</td>
+<td>SOFT SKILL(SS)</td>
 </tr>
 <tr>
 <td align="center">4.</td>
@@ -105,8 +107,13 @@ Execute the program
 </tr>
 <tr>
 <td align="center">6.</td>
-<td align="center">19EY701</td>
-<td>Soft Skills (SS)</td>
+<td align="center">19EC303</td>
+<td>Digital Principle and System Design(DPSD)</td>
+</tr>
+<tr>
+<td align="center">7.</td>
+<td align="center">19PH205</td>
+<td>Computional Physics(PHY)</td>
 </tr>
 </table>
 </body>
